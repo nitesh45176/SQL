@@ -3,7 +3,7 @@
 Table: Sales
 
 +-------------+-------+
-| Column Name | Type  |
+| Column Name | Type  
 +-------------+-------+
 | sale_id     | int   |
 | product_id  | int   |
