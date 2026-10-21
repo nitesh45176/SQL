@@ -19,7 +19,7 @@ Note that the price is per unit.
 
 Table: Product
 
-+--------------+---------+
++-------------+---------+
 | Column Name  | Type    |
 +--------------+---------+
 | product_id   | int     |
