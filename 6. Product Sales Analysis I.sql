@@ -78,3 +78,10 @@ select p.product_name, s.year, s.price
 from Sales s
 join Product p
 on s.product_id=p.product_id; 
+
+
+Explaination:
+
+Key difference:
+- Use JOIN when you need matching records from both tables.
+- Use LEFT JOIN when you must keep every record from the left table, even without a match.
